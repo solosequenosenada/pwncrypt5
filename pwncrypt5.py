@@ -1,4 +1,4 @@
-#!/usr/bin/python              
+#!/usr/bin/python pwncrypt5.py grbnz0@gmail.com msgstorage.db.crypt5>msgstorage.sdb          
 """
 48bits presents:
 8===============================================D~~~
